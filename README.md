@@ -3,7 +3,7 @@
 <div align="center">
   Welcome to my page! <br>
   I am a 3rd-year computer science student with a strong interest in fullstack development. <br>
-  Currently working on camera shop project<br>
+  Currently working on <a href="https://github.com/leidZhang/camera-shop">camera shop project</a><br>
   Relevant courses: Fundamentals of Data Structures, Introduction to Database Systems, Advanced Object-Oriented Programming.
 </div>
 
