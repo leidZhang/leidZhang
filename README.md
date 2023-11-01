@@ -3,7 +3,7 @@
 <div align="center">
   Welcome to my page! <br>
   I am a 3rd-year computer science student with a strong interest in fullstack development. <br>
-  Currently working on <a href="https://github.com/leidZhang/camera-shop">camera shop project</a><br>
+  Currently working on <a href="[https://github.com/leidZhang/QCarSteeringControl]">QCar control</a> project<br>
   Relevant courses: Fundamentals of Data Structures, Introduction to Database Systems, Advanced Object-Oriented Programming.
 </div>
 
