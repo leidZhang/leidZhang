@@ -18,8 +18,6 @@
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
-![Vue](https://img.shields.io/badge/vue-black?style=for-the-badge&logo=vue)
-![Spring Boot](https://img.shields.io/badge/spring_boot-black?style=for-the-badge&logo=spring_boot)
 ![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)
 
 <details>
