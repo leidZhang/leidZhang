@@ -2,8 +2,7 @@
 
 <div align="center">
   Welcome to my page! <br>
-  I am a 3rd-year computer science student with a strong interest in fullstack development. <br>
-  Currently working on <a href="https://github.com/leidZhang/QCarSteeringControl">QCar control</a> project<br>
+  I am a 4th-year computer science student with a strong interest in fullstack development. <br>
   Relevant courses: Fundamentals of Data Structures, Introduction to Database Systems, Advanced Object-Oriented Programming.
 </div>
 
