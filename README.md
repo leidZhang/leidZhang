@@ -11,6 +11,7 @@
 **Robotics:** ROS 2<br>
 **ML:** PyTorch, Transformers <br>
 **Realtime & Media:** WebRTC, aiortc, JPEG XS <br>
+**DevOps & Tooling:** Docker, Git, Linux
 
 <details>
 <p align="center">
