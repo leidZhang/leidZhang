@@ -8,7 +8,7 @@
 
 **Languages:** Python, Shell, C/C++, JavaScript, SQL   <br>
 **Backend:** Starlette, Uvicorn, asyncio 
-**Robotics:** ROS 2   
+**Robotics:** ROS 2   <br>
 **ML:** PyTorch, Transformers <br>
 **Realtime & Media:** WebRTC, aiortc, JPEG XS <br>
 
