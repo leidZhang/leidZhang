@@ -6,11 +6,11 @@
 
 ### What I work with
 
-**Languages:** Python, Shell, C/C++, JavaScript, SQL  
-**Backend:** Starlette, Uvicorn, asyncio  
-**Robotics:** ROS 2  
-**ML:** PyTorch, Transformers
-**Realtime & Media:** WebRTC, aiortc, JPEG XS
+**Languages:** Python, Shell, C/C++, JavaScript, SQL   <br>
+**Backend:** Starlette, Uvicorn, asyncio <br>  
+**Robotics:** ROS 2 <br>  
+**ML:** PyTorch, Transformers <br>
+**Realtime & Media:** WebRTC, aiortc, JPEG XS <br>
 
 <details>
 <p align="center">
