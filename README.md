@@ -7,8 +7,8 @@
 ### What I work with
 
 **Languages:** Python, Shell, C/C++, JavaScript, SQL   <br>
-**Backend:** Starlette, Uvicorn, asyncio <br>  
-**Robotics:** ROS 2 <br>  
+**Backend:** Starlette, Uvicorn, asyncio 
+**Robotics:** ROS 2   
 **ML:** PyTorch, Transformers <br>
 **Realtime & Media:** WebRTC, aiortc, JPEG XS <br>
 
